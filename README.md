@@ -1,5 +1,5 @@
 # Tesis UAQ. Ing Física
-# Desarrollo de interfaz gráfica para visualización de modelos cosmoóogicos
+# Desarrollo de interfaz gráfica para visualización de modelos cosmológicos
 
 Proyecto ganador de Prototype Day - Data Scientist 2023.
 
