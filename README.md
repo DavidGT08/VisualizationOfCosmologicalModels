@@ -1,7 +1,7 @@
 # Tesis UAQ. Ing Física
 # Desarrollo de interfaz gráfica para visualización de modelos cosmológicos
 
-Proyecto ganador de Prototype Day - Data Scientist 2023.
+Trabajo de tesis para obtener el titulo de Ingeniero Físico.
 
 <p align="left">
 <img src="./docs/img/ing-fisica_logo.png" width="250">
